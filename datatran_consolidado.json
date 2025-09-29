@@ -1,0 +1,92 @@
+[
+    {
+        "data_inversa": "01/01/2020",
+        "dia_semana": "quarta-feira",
+        "horario": "05:40:00",
+        "uf": "PA",
+        "municipio": "SAO FRANCISCO DO PARA",
+        "tipo_acidente": "Saidadeleitocarrosavel",
+        "condicao_metereologica": "Ceu Claro"
+    },
+    {
+        "data_inversa": "01/01/2020",
+        "dia_semana": "quarta-feira",
+        "horario": "06:00:00",
+        "uf": "MG",
+        "municipio": "UBERABA",
+        "tipo_acidente": "Colisaotransversal",
+        "condicao_metereologica": "Ceu Claro"
+    },
+    {
+        "data_inversa": "01/01/2020",
+        "dia_semana": "quarta-feira",
+        "horario": "06:00:00",
+        "uf": "BA",
+        "municipio": "CANUDOS",
+        "tipo_acidente": "Saidadeleitocarrosavel",
+        "condicao_metereologica": "Nublado"
+    },
+    {
+        "data_inversa": "01/01/2020",
+        "dia_semana": "quarta-feira",
+        "horario": "10:08:00",
+        "uf": "SP",
+        "municipio": "APARECIDA",
+        "tipo_acidente": "Colisaotraseira",
+        "condicao_metereologica": "Sol"
+    },
+    {
+        "data_inversa": "01/01/2020",
+        "dia_semana": "quarta-feira",
+        "horario": "12:10:00",
+        "uf": "MG",
+        "municipio": "JUATUBA",
+        "tipo_acidente": "Saidadeleitocarrosavel",
+        "condicao_metereologica": "Ceu Claro"
+    },
+    {
+        "data_inversa": "28/07/2025",
+        "dia_semana": "segunda-feira",
+        "horario": "08:50:00",
+        "uf": "CE",
+        "municipio": "FORTALEZA",
+        "tipo_acidente": "Colisaotraseira",
+        "condicao_metereologica": "Ceu Claro"
+    },
+    {
+        "data_inversa": "26/04/2025",
+        "dia_semana": "sábado",
+        "horario": "13:30:00",
+        "uf": "MG",
+        "municipio": "ARAGUARI",
+        "tipo_acidente": "Saidadeleitocarrosavel",
+        "condicao_metereologica": "Nublado"
+    },
+    {
+        "data_inversa": "28/08/2025",
+        "dia_semana": "quinta-feira",
+        "horario": "19:20:00",
+        "uf": "PR",
+        "municipio": "FOZ DO IGUACU",
+        "tipo_acidente": "Saidadeleitocarrosavel",
+        "condicao_metereologica": "Ceu Claro"
+    },
+    {
+        "data_inversa": "11/06/2025",
+        "dia_semana": "quarta-feira",
+        "horario": "10:30:00",
+        "uf": "PR",
+        "municipio": "SANTO ANTONIO DO SUDOESTE",
+        "tipo_acidente": "Colisaotransversal",
+        "condicao_metereologica": "Ceu Claro"
+    },
+    {
+        "data_inversa": "04/05/2025",
+        "dia_semana": "domingo",
+        "horario": "20:40:00",
+        "uf": "PR",
+        "municipio": "CURITIBA",
+        "tipo_acidente": "AtropelamentodePedestre",
+        "condicao_metereologica": "Ceu Claro"
+    }
+]
